@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="title">Welcome To My Image Gallery</h1>
+    <p>Click on one of the images to open the lightbox:</p>
+    <div class="gallery">
+        <img src="images/pexels-andrew-2123337.jpg" alt="image1">
+        <img src="images/pexels-lilian-chagas-941875-2087708.jpg" alt="image2">
+        <img src="images/pexels-medhat-ayad-122846-383568.jpg" alt="image3">
+        <img src="images/pexels-pixabay-460736.jpg" alt="image4">
+        <img src="images/pexels-myatezhny39-2121666.jpg" alt="image5">
+        <img src="images/pexels-pixabay-460736.jpg" alt="image6">
+        <img src="images/pexels-riciardus-69903.jpg" alt="image8">
+        <img src="images/pexels-suzyhazelwood-3004909.jpg" alt="image10">        
+    </div>
+    <div id="lightbox" class="lightbox">
+        <span class="close">&times;</span>
+        <img class="lightbox-img" />
+        <div class="lightbox-controls">
+          <button id="prev">&#10094;</button>
+          <button id="next">&#10095;</button>
+        </div>
+      </div>
+    
+      <script src="script.js"></script>
+    
+</body>
+</html>
