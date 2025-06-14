@@ -19,6 +19,6 @@ Optimized for mobile, tablet, and desktop screen sizes using CSS media queries a
 - JavaScript (Vanilla)
 
 ## 🚀 Live Demo
-[🔗 View Project](https://yourusername.github.io/image-gallery/)  
+[🔗 View Project](https://rohitdvplr.github.io/CodeAlpha_ImageGalleryy/)  
 
 Feel free to ⭐ the repo or fork it if you found it helpful!
